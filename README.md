@@ -1,4 +1,4 @@
-![logo](https://github.com/SanimSRk/SanimSRK/blob/main/193efaad-8960-4419-8c39-0f62550b5edd.jpg)
+![logo](https://github.com/md-sanim-mia/md-sanim-mia/blob/main/193efaad-8960-4419-8c39-0f62550b5edd.jpg)
 <h1 align="center">Hi 👋, I'm Md Sanim Mia</h1>
 <h3 align="center">Aspiring Junior MERN Stack Developer | Building Web Applications</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
@@ -21,6 +21,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=md-sanim-mia&show_icons=true&locale=en&layout=compact" alt="md-sanim-mia" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanimsrk&show_icons=true&locale=en" alt="sanimsrk" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=md-sanim-mia&show_icons=true&locale=en" alt="md-sanim-mia" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=md-sanim-mia&" alt="md-sanim-mia" /></p>
