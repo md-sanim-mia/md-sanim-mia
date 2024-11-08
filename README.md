@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Md Sanim Mia</h1>
 <h3 align="center">Aspiring Junior MERN Stack Developer | Building Web Applications</h3>
 
-  <img width={500} src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/200w.gif?cid=6c09b9527xebvlkuxnrpwbj33wgoblp3cislhix37eovqi2o&ep=v1_gifs_search&rid=200w.gif&ct=g" alt="" />
+  <img  src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/200w.gif?cid=6c09b9527xebvlkuxnrpwbj33wgoblp3cislhix37eovqi2o&ep=v1_gifs_search&rid=200w.gif&ct=g" alt="" />
   
 - 🔭 I’m currently working MERN Stack Developer [Life Line](https://hospital-management-4e9fc.web.app)
 
