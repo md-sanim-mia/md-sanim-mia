@@ -3,6 +3,7 @@
 <h3 align="center">MERN Stack Developer for Scalable Web Applications</h3>
 
   <img height='300' width='400' align='right' src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/200w.gif?cid=6c09b9527xebvlkuxnrpwbj33wgoblp3cislhix37eovqi2o&ep=v1_gifs_search&rid=200w.gif&ct=g" alt="coding" />
+    <img  src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/200w.gif?cid=6c09b9527xebvlkuxnrpwbj33wgoblp3cislhix37eovqi2o&ep=v1_gifs_search&rid=200w.gif&ct=g" alt="" />
   
 - 🔭 I’m currently working on [Life Line](https://hospital-management-4e9fc.web.app)
 
