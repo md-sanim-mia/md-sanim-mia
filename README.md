@@ -1,8 +1,9 @@
 ![logo](https://github.com/md-sanim-mia/md-sanim-mia/blob/main/193efaad-8960-4419-8c39-0f62550b5edd.jpg)
 <h1 align="center">Hi 👋, I'm Md Sanim Mia</h1>
 <h3 align="center">Aspiring Junior MERN Stack Developer | Building Web Applications</h3>
-[<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>](https://tenor.com/view/coding-gif-24297652)
 
+  <img width={500} src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/200w.gif?cid=6c09b9527xebvlkuxnrpwbj33wgoblp3cislhix37eovqi2o&ep=v1_gifs_search&rid=200w.gif&ct=g" alt="" />
+  
 - 🔭 I’m currently working MERN Stack Developer [Life Line](https://hospital-management-4e9fc.web.app)
 
 - 🌱 I’m currently learning **TypeScript**
